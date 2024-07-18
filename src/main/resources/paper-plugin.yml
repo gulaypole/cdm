@@ -1,0 +1,4 @@
+name: CDM
+version: '${version}'
+main: dkn.minecraft.CDM
+api-version: '1.20'
