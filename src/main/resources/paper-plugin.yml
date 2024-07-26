@@ -1,0 +1,4 @@
+name: CDMwallet
+version: '${version}'
+main: dkn.minecraft.CDMwallet
+api-version: '1.20'
